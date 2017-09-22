@@ -1,4 +1,4 @@
-![logoImage](https://github.com/blelocalization/blelocalization.github.io/blob/master/gitpageImage1.jpg)
+![logoImage](https://www.google.com/search?biw=1440&bih=826&tbm=isch&sa=1&q=indoor+localization&oq=indoor+localization&gs_l=psy-ab.3...7631.9221.0.9756.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.qG_Te3DF95Q#imgrc=VChJ0wbh_ILmmM:)
 
 ## Indoor Localization
 
