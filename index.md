@@ -1,4 +1,4 @@
- [Home](#Indoor-Localization)  [About](#Key-Features)  [Releases](#Releases)  [Papers](#Papers)  [Contact-Us](#Contact-Us)
+ [Home](#Indoor Localization)  [About](#Key Features)  [Releases](#Releases)  [Papers](#Papers)  [Contact-Us](#Contact Us)
 
 ## Indoor Localization
 
