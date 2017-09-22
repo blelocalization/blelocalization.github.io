@@ -1,5 +1,3 @@
-![logoImage](https://github.com/blelocalization/blelocalization.github.io/blob/master/gitpageImage1.jpg)
-
  [Home](#Indoor-Localization)  [About](#Key-Features)  [Releases](#Releases)  [Papers](#Papers)  [Contact-Us](#Contact-Us)
 
 ## Indoor Localization
