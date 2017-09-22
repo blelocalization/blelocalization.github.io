@@ -26,7 +26,7 @@ Our first version of Finding by Counting is out. Check it now!
 
 `IN PRESS` [Finding by Counting: A Probabilistic Packet Count Model for Indoor Localization in BLE Environments](http://arxiv.org/abs/1708.08144)
   
-Subham De, Shreyans Chowdhary, Aniket Shirke, Yat Long Lo, Robin Kravets and Hari Sundaram **WiNTECH, Mobicom'17**, Snowbird, UT, USA. October 2017
+Subham De, Shreyans Chowdhary, Aniket Shirke, Yat Long Lo, Robin Kravets and Hari Sundaram, **WiNTECH, Mobicom'17**, Snowbird, UT, USA. October 2017
   
 ### Contact Us
 
