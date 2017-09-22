@@ -1,4 +1,4 @@
-![logoImage](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjy1PHcq7nWAhUK04MKHXMLDzEQjRwIBw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPqWhO09IRsk&psig=AFQjCNEbWDRlx1RwPsEjimXwDZd_KQfA_w&ust=1506188540459344)
+![logoImage](https://github.com/blelocalization/blelocalization.github.io/blob/master/gitpageImage1.jpg)
 
 ## Indoor Localization
 
