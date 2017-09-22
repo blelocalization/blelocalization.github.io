@@ -9,11 +9,13 @@ Finding by counting is a system which can currently localize moving customers wi
 Finding by counting supports the localization of moving customers with the following features:
 
 *  #### Decimeter Level Accuracy 
-  Finding by Counting can find physical co-ordinates of moving customers at regular intervals with an average accuracy of 0.4 meters.
+      Finding by Counting can find physical co-ordinates of moving customers at regular intervals with an average accuracy of       0.4 meters.
 *  #### Bluetooth Low Energy(BLE) Medium 
-  Unlike other state-of-the-art techniques which use Wi-Fi as a medium and use location of Wi-Fi APs, Finding by Counting works on BLE beacons than can be attached with items like products in retail stores.
+      Unlike other state-of-the-art techniques which use Wi-Fi as a medium and use location of Wi-Fi APs, Finding by Counting       works on BLE beacons than can be attached with items like products in retail stores.
 *  #### Use of only Packet Count 
-  Most techniques use RSS or strength values of signals from fixed devices like WiFi APs and then map that to distance either through fingerprinting or by deriving a mathamatical model of signal strength decay with distance. Finding by Couting ignores RSS value altogether due to its high variance and unreliability in indoor settings.
+      Most techniques use RSS or strength values of signals from fixed devices like WiFi APs and then map that to 
+      distance either through fingerprinting or by deriving a mathamatical model of signal strength decay with distance.
+      Finding by Couting ignores RSS value altogether due to its high variance and unreliability in indoor settings.
        
 ### Releases
                   
