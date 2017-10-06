@@ -1,5 +1,29 @@
 theme: jekyll-theme-slate
 title: Finding By Counting
 description: Localizing at Decimeter Level in Indoor Public Spaces 
-description: [Home](#indoor-localization)  [About](#key-features)  [Releases](#releases)  [Papers](#papers)  [Contact-Us](#contact-us)
+navbar :
+
+  archive :
+
+    enabled : true
+
+  categories :
+
+    enabled : true
+
+  tags :
+
+    enabled : true
+
+  github_projects :
+
+    enabled : false
+
+  social_links :
+
+    enabled : false
+
+  external_links :
+
+    enabled : false
 
