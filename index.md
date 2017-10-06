@@ -1,7 +1,6 @@
  [Home](#indoor-localization)  [About](#key-features)  [Releases](#releases)  [Papers](#papers)  [Contact-Us](#contact-us)
 
 ![GitHub Logo](gitpageImage1.jpg)
-Format: ![Alt Text](url)
 
 ### Indoor Localization
 
