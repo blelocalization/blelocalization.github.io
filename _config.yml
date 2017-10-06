@@ -4,3 +4,52 @@ description: Localizing at Decimeter Level in Indoor Public Spaces
 url : https://blelocalization.github.io
 email : de5@illinois.com
 author: Subham De
+
+
+sections:
+
+  brief_bio :
+
+    enabled : true
+
+    image :
+
+      enabled : false
+
+      url : false
+
+    content :
+
+      enabled : true
+
+    social_links :
+
+      enabled : false
+
+    github_projects :
+
+      enabled : true
+
+  social_links :
+
+    enabled : false
+
+  github_projects :
+
+    enabled : false
+
+  external_links :
+
+    enabled : true
+
+  archive :
+
+    enabled : false
+
+  categories :
+
+    enabled : false
+
+  tags :
+
+    enabled : false
