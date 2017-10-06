@@ -1,6 +1,17 @@
 theme: jekyll-theme-slate
 title: Finding By Counting
 description: Localizing at Decimeter Level in Indoor Public Spaces 
-url : https://blelocalization.github.io
-author-email : de5@illinois.com
-author: Subham De
+
+author:
+
+  name: Dugan Nash
+
+  twitter: Towlette_Pettetucci
+
+  picture: gitpageImage1.jpg 
+
+twitter_username: Towlette_Pettetucci
+
+github_username: Towlette_Pettetucci
+
+logo: /assets/icons/basically-basic-logo-light.svg
