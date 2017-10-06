@@ -2,16 +2,42 @@ theme: jekyll-theme-slate
 title: Finding By Counting
 description: Localizing at Decimeter Level in Indoor Public Spaces 
 
-author:
+picture:
 
-  name: Dugan Nash
+  source: gitpageImage1.jpg 
 
-  twitter: Towlette_Pettetucci
+  output: generated
 
-  picture: gitpageImage1.jpg 
+  markup: picture
 
-twitter_username: Towlette_Pettetucci
+  presets:
 
-github_username: Towlette_Pettetucci
+    # Full width pictures
 
-logo: /assets/icons/basically-basic-logo-light.svg
+    default:
+
+      ppi: [1, 1.5]
+
+      attr:
+
+        class: blog-full
+
+        itemprop: image
+
+      source_lrg:
+
+        media: "(min-width: 40em)"
+
+        width: 700
+
+      source_med:
+
+        media: "(min-width: 30em)"
+
+        width: 450
+
+      source_default:
+
+        width: 350
+
+        height: 200
