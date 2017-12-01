@@ -1,6 +1,8 @@
  [Home](#indoor-localization)  [About](#key-features)  [Releases](#releases)  [Papers](#papers)  [Contact-Us](#contact-us)
 
-![GitHub Logo](gitpageImage1.jpg)
+### Motivation
+
+![GitHub Logo](motivation.png)
 
 ### Indoor Localization
 
