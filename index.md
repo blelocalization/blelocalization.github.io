@@ -39,7 +39,7 @@ In our work, we estimate distance by counting the number of packets received fro
 |<img src="trainedModel.png" width="480" height="300">  | <img src="locResults.png" width="460" height="280"> |
 
 ## Localization Results
-<img src="locTable.png" width="460" height="280" align="left">
+<img src="locTable.png" width="460" height="280" align="center">
 
 ### Resources
                   
