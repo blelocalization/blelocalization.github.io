@@ -17,13 +17,18 @@ Finding by counting supports the localization of moving customers with the follo
 
 *  #### Decimeter Level Accuracy 
       Finding by Counting can find physical co-ordinates of moving customers at regular intervals with an average accuracy of       0.4 meters.
-*  #### Bluetooth Low Energy(BLE) Medium 
-      Unlike other state-of-the-art techniques which use Wi-Fi as a medium and use location of Wi-Fi APs, Finding by Counting       works on BLE beacons than can be attached with items like products in retail stores.
-*  #### Use of only Packet Count 
+*  #### Bluetooth Low Energy(BLE) iBeacons
+      Finding by Counting uses BLE beacons as anchor nodes for localization.
+*  #### Uses Packet Count / No to RSSI
       Most techniques use RSS or strength values of signals from fixed devices like WiFi APs and then map that to 
       distance either through fingerprinting or by deriving a mathamatical model of signal strength decay with distance.
       Finding by Couting ignores RSS value altogether due to its high variance and unreliability in indoor settings.
-       
+
+### Our Solution
+
+In our work, we estimate distance by counting the number of packets received from stationary beacons. 
+
+* We train a Generalized Linear Model(GLM) on fraction of packets received from beacons. GLM contains distance, beaconing   power and advertising frequency of beacons as parameters. 
 ### Releases
                   
 Our first version of Finding by Counting is out. Check it now!
