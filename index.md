@@ -2,7 +2,7 @@
 
 ### Motivation
 
-<img src="motivation.png" width="48">
+<img src="motivation.png" width="480">
 
 ### Indoor Localization
 
