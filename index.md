@@ -32,6 +32,12 @@ In our work, we estimate distance by counting the number of packets received fro
 * We use trained GLM in a range free localization setting i.e. along with a Kalman filter to infer location of a moving person over subsequent time windows. 
 * We use Markov Chain Monte Carlo (MCMC) techniques to learn GLM parameters during training phase and location parameters during localization phase.
 
+### Sample Results
+
+|Trained Model | Accuracy Comparison |
+| ------- |-------  |
+|<img src="trainedModel.png" width="480" height="300">  | <img src="locResults.png" width="460" height="280"> |
+
 ### Resources
                   
 Code and Data are available [here](https://github.com/subham8247/FindingByCounting/tree/master) 
