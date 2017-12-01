@@ -1,9 +1,9 @@
  [Home](#indoor-localization)  [About](#key-features)  [Releases](#releases)  [Papers](#papers)  [Contact-Us](#contact-us)
 
 
-Motivation | Result 
-  |  
-<img src="motivation.png" width="480">  | <img src="result.png" width="480"> 
+|Motivation | Result |
+|  |  |
+|<img src="motivation.png" width="480">  | <img src="result.png" width="480"> |
 
 ### Indoor Localization
 
