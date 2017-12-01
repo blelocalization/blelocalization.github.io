@@ -2,7 +2,7 @@
 
 
 |Motivation | Result |
-|  |  |
+| ------- |-------  |
 |<img src="motivation.png" width="480">  | <img src="result.png" width="480"> |
 
 ### Indoor Localization
