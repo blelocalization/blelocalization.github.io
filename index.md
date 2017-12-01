@@ -22,7 +22,7 @@ Finding by counting supports the localization of moving customers with the follo
 *  #### Uses Packet Count / No to RSSI
       Most techniques use RSS or strength values of signals from fixed devices like WiFi APs and then map that to 
       distance either through fingerprinting or by deriving a mathamatical model of signal strength decay with distance.
-      Finding by Couting ignores RSS value altogether due to its high variance and unreliability in indoor settings.
+      Finding by Couting ignores RSS value altogether due to its high variance and unreliability in indoor settings. It simply       counts the number of packets received from the beacons.  
 
 ### Our Solution
 
@@ -30,6 +30,7 @@ In our work, we estimate distance by counting the number of packets received fro
 
 * We train a Generalized Linear Model(GLM) on fraction of packets received from beacons. GLM contains distance, beaconing   power and advertising frequency of beacons as parameters. 
 * We use trained GLM in a range free localization setting i.e. along with a Kalman filter to infer location of a moving person over subsequent time windows. 
+* We use Markov Chain Monte Carlo (MCMC) techniques to learn GLM parameters during training phase and location parameters during localization phase.
 
 ### Resources
                   
