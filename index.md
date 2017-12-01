@@ -29,13 +29,14 @@ Finding by counting supports the localization of moving customers with the follo
 In our work, we estimate distance by counting the number of packets received from stationary beacons. 
 
 * We train a Generalized Linear Model(GLM) on fraction of packets received from beacons. GLM contains distance, beaconing   power and advertising frequency of beacons as parameters. 
-### Releases
+* We use trained GLM in a range free localization setting i.e. along with a Kalman filter to infer location of a moving person over subsequent time windows. 
+### Resources
                   
-Our first version of Finding by Counting is out. Check it now!
+Code and Data are available [here](https://github.com/subham8247/FindingByCounting/tree/master) 
 
 ### Papers
 
-`IN PRESS` [Finding by Counting: A Probabilistic Packet Count Model for Indoor Localization in BLE Environments](http://arxiv.org/abs/1708.08144)
+[Finding by Counting: A Probabilistic Packet Count Model for Indoor Localization in BLE Environments](http://arxiv.org/abs/1708.08144)
   
 Subham De, Shreyans Chowdhary, Aniket Shirke, Yat Long Lo, Robin Kravets and Hari Sundaram, **WiNTECH, Mobicom'17**, Snowbird, UT, USA. October 2017
   
