@@ -2,7 +2,7 @@
 
 ### Motivation
 
-![GitHub Logo](motivation.png)
+<img src="motivation.png" width="48">
 
 ### Indoor Localization
 
