@@ -30,6 +30,7 @@ In our work, we estimate distance by counting the number of packets received fro
 
 * We train a Generalized Linear Model(GLM) on fraction of packets received from beacons. GLM contains distance, beaconing   power and advertising frequency of beacons as parameters. 
 * We use trained GLM in a range free localization setting i.e. along with a Kalman filter to infer location of a moving person over subsequent time windows. 
+
 ### Resources
                   
 Code and Data are available [here](https://github.com/subham8247/FindingByCounting/tree/master) 
