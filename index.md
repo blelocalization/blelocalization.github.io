@@ -38,6 +38,9 @@ In our work, we estimate distance by counting the number of packets received fro
 | ------- |-------  |
 |<img src="trainedModel.png" width="480" height="300">  | <img src="locResults.png" width="460" height="280"> |
 
+## Localization Results
+<img src="locTable.png" width="460" height="280" align="left">
+
 ### Resources
                   
 Code and Data are available [here](https://github.com/subham8247/FindingByCounting/tree/master) 
